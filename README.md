@@ -3,7 +3,7 @@ a pure php telegram channel scrapper library  without login!!
 
 ## installation 
 ```bash
-composer require faryar76/php-telegram-scrapper
+composer require faryar76/php-telegram-scrapper-new
 ```
 
 ## usage
